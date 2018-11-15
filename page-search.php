@@ -42,8 +42,8 @@
        <?php }
     ?>
 
-    <div class="generic-content">
-      <?php the_content(); ?>
+    <div class="generic-content"> 
+        <?php get_search_form(); ?>
     </div>
 
   </div>
